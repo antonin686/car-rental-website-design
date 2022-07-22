@@ -1,0 +1,24 @@
+{
+  "name": "car-rental-website-design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npx tailwindcss -i ./css/tailwind.css -o ./css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonin686/car-rental-website-design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonin686/car-rental-website-design/issues"
+  },
+  "homepage": "https://github.com/antonin686/car-rental-website-design#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
